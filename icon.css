@@ -1,0 +1,14 @@
+.w3-col.w3-bar ion-icon{
+     font-size: 18px;    
+}
+
+.w3-bar-block ion-icon{
+    font-size: 18px;
+    pointer-events: none;
+}
+
+.w3-quarter ion-icon{
+    font-size: 48px;
+    pointer-events: none;
+}
+
